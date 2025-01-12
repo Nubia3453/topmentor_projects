@@ -1,0 +1,8 @@
+Hello,
+
+this webapp generates dataset of personal information such as name, address, email id, mobile number etc.
+this is python based webapp, accepts the inputy from user in temr of no of lines to be genrated. 
+
+THis uses  faker pakage of python to genearted fake data.
+
+it generates log on backend, it has detals like current date, time, data written to ouputfile and the total count of data records.
