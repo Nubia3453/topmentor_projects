@@ -1,0 +1,73 @@
+INC_No,Year,EventDate,City,State,FlightType,AboardCount,HighestInjuryLevel,FatalInjuryCount,SeriousInjuryCount,MinorInjuryCount,ProbableCause,AirCraftCategory,Make,AirCraftDamage,Operator,BroadPhaseofFlight
+1,2024,6/3/2024,Guna,Madhya Pradesh,Trainer,1,No Injuries,0,0,1,Technical Failuer,Trainee Aircraft,Cessna,Substantial,Dhana-Based Chimes Aviation Academy,Approach
+2,2024,5/3/2024,Raigad,Maharashtra,Commecial,2,No Injuries,0,0,2,Technical Failuer,Commercial Helicopter,Bell,Substantial,Mahalaxmi Aviation Pvt Ltd,Landing
+3,2023,22-10-2023,Baramati,Maharashtra,Trainer,2,Minor,0,0,2,Technical Failuer,Trainee Aircraft,Tecnam,Substantial,Redbird Flight Training Academy,Takeoff
+4,2023,19-10-2023,Baramati,Maharashtra,Trainer,1,Minor,0,0,1,Technical Failuer,Trainee Aircraft,Tecnam,Destroyed,Private Aviation Company,Takeoff
+5,2023,14-09-2023,Mumbai,Maharashtra,Private,8,Serious,0,1,7,Bad Weather,Private Aircraft,Learjet,Substantial,Vsr Ventures Pvt Ltd,Landing
+6,2023,11/7/2023,Bengaluru,Karnataka,Commecial,2,No Injuries,0,0,0,Technical Failuer,Commercial Aircraft,Beecraft,Substantial,Hindustan Aeronautics Limited ,Landing
+7,2023,18-03-2023,Gondia,Maharashtra,Trainer,2,Fatal,2,0,0,Unknown,Trainee Aircraft,Diamond,Destroyed,Indira Gandhi Rashtriya Uran Akademi,Enroute
+8,2023,1/1/2023,Madhya Pradesh,Madhya Pradesh,Trainer,2,Fatal,1,1,0,Training,Trainee Aircraft,Cessna,Destroyed,Private Aviation Company,Maneuvering
+9,2022,18-10-2022,Rudraprayag,Uttarakhand,Commecial,7,Fatal,7,0,0,Technical Failuer,Commercial Helicopter,Bell,Destroyed,Aryan Aviation Pvt. Ltd.,Take-off
+10,2022,22-07-2022,Baramati,Maharashtra,Trainer,1,No Injuries,0,0,0,Technical Failuer,Trainee Aircraft,Cessna,Substantial,"M/S Academy Of Carver Aviation Pvt Ltd, Baramati",Landing
+11,2022,28-06-2022,Mumbai,Maharashtra,Commecial,9,Fatal,4,5,0,Loss of Control In-Flight,Commercial Helicopter,Sikorsky,Substantial,Pawan Hans Limited,Approach
+12,2022,13-06-2022,Fursatganj,Uttar Pradesh,Trainer,1,No Injuries,0,0,0,Technical Failuer,Trainee Aircraft,Diamond,Substantial,M/S Indira Gandhi Rashtriya Uran Akademi,Landing
+13,2022,12/5/2022,Bhiwani,Haryana,Private Trainer,2,No Injuries,0,0,0,Technical Failuer,Private Aircraft,Tecnam,Substantial,Private Aviation Company,Landing
+14,2022,26-02-2022,Telangana,Telangana,Trainer,1,Fatal,1,0,0,Technical Failuer,Trainee Aircraft,Cessna,Substantial,Flytech Aviation Academy,Enroute
+15,2022,21-01-2022,Aligarh,Uttar Pradesh,Trainer,2,No Injuries,0,0,2,Bad Weather,Trainee Aircraft,Cessna,Substantial,Pioneer Flying Academy Pvt. Ltd.,Landing
+16,2021,16-07-2021,Vardi,Maharashtra,Trainer,2,Fatal,1,1,0,Human Error,Trainee Aircraft,Tecnam,Destroyed,Nmims Academy Of Aviation,Approach
+17,2021,7/6/2021,Kolkata,West Bengal,Commecial,120,Serious,0,2,2,Bad Weather,Commercial Aircraft,Boeing,Substantial,Tata Sia Airlines,Enroute
+18,2021,5/6/2021,Mumbai,Maharashtra,Commecial,8,No Injuries,0,0,0,Mechanical Failuer,Air Ambulence,Beech,Substantial,Jet Serve Aviation Pvt. Ltd.,Landing
+19,2021,27-03-2021,Bhopal,Madhya Pradesh,Trainer,3,No Injuries,0,0,3,Mechanical Failuer,Trainee Aircraft,Partenavia,Substantial,M/S Pinnacle Air Pvt Ltd,Enroute
+20,2021,20-02-2021,Vijayawada,Andhra Pradesh,Commecial,70,No Injuries,0,0,0,Human Error,Commercial Aircraft,Boeing,Substantial,Air India Express,Taxi
+21,2020,7/8/2020,Kozhikode,Kerala,Commecial,131,No Injuries,21,76,34,Bad Weather,Commercial Aircraft,Boeing,Destroyed,Air India Express,Landing
+22,2020,28-06-2020,Vijayanagar,Karnataka,Commecial,6,No Injuries,0,0,6,Bad Weather,Commercial Aircraft,Cessna,Substantial,– M/S Jindal Steel & Power Ltd.,Landing
+23,2020,8/6/2020,Birasal,Odisha,Trainer,2,Fatal,2,0,0,Technical Failuer,Trainee Aircraft,Cessna,Substantial,Government Aviation Training Institute,Takeoff
+24,2020,2/3/2020,Dumka,Jharkhand,Trainer,1,Serious,0,1,0,Human Error,Trainee Aircraft,Other Aviation Company,Destroyed,Jharkhand Flying Institute,Maneuvering
+25,2020,3/1/2020,Dhana,Madhya Pradesh,Trainer,2,Fatal,2,0,0,Bad Weather,Trainee Aircraft,Cessna,Substantial,Chimes Aviation Academy,Enroute
+26,2019,6/10/2019,Sultanpur,Telangana,Trainer,2,Fatal,2,0,0,Bad Weather,Trainee Aircraft,Cessna,Substantial,Wings Aviation Pvt. Ltd.,Enroute
+27,2019,5/10/2019,Maharashtra,Maharashtra,Trainer,1,Minor,0,0,1,Human Error,Trainee Aircraft,Cessna,Substantial,Academy Of Aviation,Approach
+28,2019,27-08-2019,Aligarh,Uttar Pradesh,Private,8,No Injuries,0,0,0,Human Error,Private Aircraft,Cessna,Destroyed,M/S Air Charter Services.,Post-Impact
+29,2019,6/3/2019,Gatte,Arunachal Pradesh,Militery,13,Fatal,13,0,0,Unknown,Militery Aircraft,Aviant,Destroyed,Indian Air Force,Enroute
+30,2018,12/10/2018,Tamil Nadu,Tamil Nadu,Commecial,136,No Injuries,0,0,0,Mechanical Failuer,Commercial Aircraft,Boeing,Substantial,Air India Express,Takeoff
+31,2018,28-06-2018,Mumbai,Maharashtra,Private,5,Fatal,5,0,0,Human Error,Private Aircraft,Beech,Destroyed,U Y Aviation Pvt. Ltd.,Maneuvering
+32,2017,5/9/2017,Chochin,Kerala,Commecial,108,Minor,0,0,0,Human Error,Commercial Aircraft,Boeing,Substantial,Air India Express,Taxi
+33,2017,25-05-2017,Nilanga,Maharashtra,Commecial,4,No Injuries,0,0,0,Human Error,Government Helicopter,Sikorsky,Substantial,Govt. Of Maharashtra,Takeoff
+34,2016,27-12-2016,Dabolim ,Goa,Commecial,138,Minor,0,0,16,Human Error,Commercial Aircraft,Boeing,Substantial,Jet Airways,Takeoff
+35,2016,11/12/2016,Juhu,Maharashtra,Commecial,4,Fatal,3,0,0,Human Error,Commercial Helicopter,Robinson,Destroyed,Aman Aviation & Aerospace Solutions (P) Ltd,Maneuvering
+36,2016,22-07-2016,Bay Of Bangal,West Bengal,Militery,29,Fatal,29,0,0,Unknown,Militery Aircraft,Aviant,Destroyed,Indian Air Force,Enroute
+37,2016,7/6/2016,Chennai ,Tamil Nadu,Commecial,6,No Injuries,0,0,0,Human Error,Commercial Aircraft,Hawker Beech,Substantial,S Larsen And Toubro Aviation Ltd,Unknown
+38,2016,3/3/2016,Mumbai,Maharashtra,Commecial,126,No Injuries,0,0,0,Mechanical Failuer,Commercial Aircraft,Boeing,Substantial,Jet Airways Ltd.,Landing
+39,2015,22-12-2015,New Delhi,Delhi,Commecial,10,Fatal,10,0,0,Technical Failuer,Commercial Aircraft,Beech,Substantial,Border Security Force,Takeoff
+40,2015,13-04-2015,Khajuraho,Madhya Pradesh,Commecial,59,No Injuries,0,0,0,Mechanical Failuer,Commercial Aircraft,Boeing,Substantial,Jet Airways Ltd.,Landing
+41,2014,19-11-2014,Indore ,Uttar Pradesh,Trainer,2,Fatal,1,1,0,Human Error,Trainee Aircraft,Cessna Aircraft Company,Substantial,M.P Flying Club,Enroute
+42,2013,29-09-2013,Murbad  ,Maharashtra,Commecial,5,Fatal,5,0,0,Bad Weather,Commercial Helicopter,Bell,Destroyed,United Helicharters,Enroute
+43,2013,24-07-2013,Kedaranath ,Uttarakhand,Commecial,1,Fatal,1,0,0,Bad Weather,Commercial Helicopter,Bell,Substantial,Transbharat Aviation Pvt. Ltd.,Landing
+44,2012,30-12-2012,Katra ,Jammu and Kashmir,Commecial,6,Serious,0,0,6,Technical Failuer,Commercial Helicopter,Bell,Substantial,Pawan Hans Limited,Landing
+45,2011,19-06-2011,Ladpur ,Uttarakhand,Private,2,Serious,0,2,0,Technical Failuer,Private Helicopter,Bell,Substantial,M/S Swajas Air Charter,Landing
+46,2011,25-05-2011,Faridabad Parvatiya Colony,Haryana,Commecial,10,Fatal,10,0,0,Human Error,Air Ambulence,Pilatus,Substantial,Air Chartered Services Pvt,Enroute
+47,2010,22-05-2010,Manglaore,Karnataka,Commecial,158,Fatal,158,0,0,Human Error,Commercial Aircraft,Boeing,Destroyed,Air India Charters,Landing
+48,2009,2/9/2009,Kurnool,Andhra Pradesh,Government,5,Fatal,5,0,0,Technical Failuer,Government Helicopter,Bell,Destroyed,"Government Of Andhra Pradesh Gad (Poll ""C"")",Landing
+49,2008,18-01-2008,Mysore,Karnataka,Commecial,4,Minor,0,2,2,Technical Failuer,Commercial Helicopter,Bell,Substantial,Deccan Aviation,Landing
+50,2006,5/6/2006,Bangalore,Karnataka,Trainer,2,No Injuries,0,0,0,Technical Failuer,Trainer Helicopter,Bell,Substantial,Unknow Operator,Landing
+51,2005,16-07-2005,Bangalore,Karnataka,Commecial,2,Minor,0,0,2,Technical Failuer,Commercial Aircraft,Cessna,Substantial,Unknow Operator,Landing
+52,2002,21-02-2002,Indore,Uttar Pradesh,Government,5,Minor,0,0,5,Technical Failuer,Government Helicopter,Bell,Substantial,Madhya Pradesh Government,Landing
+53,2001,2/1/2001,Mussoorie,Uttarakhand,Private,6,Fatal,5,1,0,Technical Failuer,Private Helicopter,Bell,Destroyed,Span Air,Landing
+54,2000,17-07-2000,Patna,Bihar,Commecial,62,Fatal,60,1,1,Human Error,Commercial Aircraft,Boeing,Destroyed,Airlines Allied Sevices Ltd,Landing
+55,1999,5/3/1999,Madras,Tamil Nadu,Commecial,5,No Injuries,0,0,0,Technical Failuer,Commercial Cargo,Boeing,Destroyed,Air France,Landing
+56,1993,26-04-1993,Aurangabad,Maharashtra,Commecial,118,Fatal,55,19,0,Human Error,Commercial Aircraft,Boeing,Destroyed,Indian Airlines,Landing
+57,1996,12/11/1996,New Delhi,Delhi,Commecial,394,Fatal,93,0,0,Human Error,Commercial Aircraft,"Boeing, Tupolev",Destroyed,"Saudi Arabian Airlines, Kazakh Airways",Landing
+58,1993,26-04-1993,Aurangabad,Maharashtra,Commecial,118,Fatal,55,0,63,Human Error,Commercial Aircraft,Boeing,Substantial,Indian Airlines,Takeoff
+59,1991,16-08-1991,Thangjing Hill,Manipur,Commecial,69,Fatal,69,0,0,Human Error,Commercial Aircraft,Boeing,Destroyed,Indian Airlines,Landing
+60,1990,14-02-1990,Bangalore,Karnataka,Commecial,92,Fatal,92,0,0,Human Error,Commercial Aircraft,Airbus,Destroyed,Indian Airlines,Landing
+61,1989,23-09-1989,Pune,Maharashtra,Commecial,11,Fatal,11,0,0,Human Error,Commercial Aircraft,Dornier,Destroyed,Vayudoot,Enroute
+62,1988,19-10-1988,Ahemdabad,Gujarat,Commecial,135,Fatal,133,2,0,Human Error,Commercial Aircraft,Boeing,Destroyed,Indian Airlines,Maneuvering
+63,1982,21-06-1982,Mumbai,Maharashtra,Commecial,111,Fatal,17,25,0,Human Error,Commercial Aircraft,Boeing,Destroyed,Air India,Landing
+64,1978,1/1/1978,Mumbai,Maharashtra,Commecial,213,Fatal,213,0,0,Mechanical Failuer,Commercial Aircraft,Boeing,Destroyed,Air India,Enroute
+65,1976,10/12/1976,Mumbai,Maharashtra,Commecial,95,Fatal,95,0,0,Mechanical Failuer,Commercial Aircraft,Boeing,Destroyed,Indian Airlines,Enroute
+66,1973,31-05-1973,New Delhi,Delhi,Commecial,65,Fatal,48,0,0,Bad Weather,Commercial Aircraft,Boeing,Destroyed,Indian Airlines,Landing
+67,1971,30-01-1971,Lahor,Lahor,Commecial,32,No Injuries,0,0,0,Terrorist Activity,Commercial Aircraft,Fokker,Destroyed,Indian Airlines,Enroute
+68,1969,10/5/1969,Ahmedabad,Gujarat,Commecial,3,No Injuries,0,0,3,Technical Failuer,Commercial Helicopter,Hughes,Substantial,Unknow Operator,Enroute
+69,1968,13-06-1968,Kolkata,West Bengal,Commecial,63,Fatal,6,10,47,Human Error,Commercial Aircraft,Boeing,Destroyed,Pan American World Awys Inc.,Landing
+70,1965,19-09-1965,Bhuj,Gujarat,Government,8,Fatal,8,0,0,Terrorist Activity,Government Aircraft,Beech,Destroyed,Government Of Gujrat,Enroute
+71,1962,7/7/1962,Mumbai,Maharashtra,Commecial,94,Fatal,94,0,0,Technical Failuer,Commercial Aircraft,Douglas,Destroyed,Alitalia,Enroute
+72,1943,14-07-1943,Lonavala,Maharashtra,Commecial,6,Fatal,6,0,0,Human Error,Commercial Aircraft,Other Aviation Company,Destroyed,Vayudoot,Enroute
