@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dataset Generator</title>
+</head>
+<body>
+    <h1>Hello User</h1>
+    <form action="/submit" method="post">
+        <input type="number" id="record_count" name="record_count" placeholder="Enter record count" required />
+        <button type="submit">submite</button> 
+    </form>
+
+    <!-- Output Message -->
+    <h2>Result: {{ message }}</h2>
+
+    <h1>Download Your Dataset</h1>
+    <button>
+        <a href="/download" class="btn">Download Dataset</a>
+    </button>
+    
+
+</body>
+</html>
